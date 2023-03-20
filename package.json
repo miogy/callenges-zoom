@@ -1,0 +1,6 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom Clone using WevRTC and Websockets",
+  "license": "MIT"
+}
